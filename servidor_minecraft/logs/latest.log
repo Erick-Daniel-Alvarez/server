@@ -92,3 +92,10 @@
 [23:19:37] [Server thread/INFO]: Daniel issued server command: /npc action lobby any_click add message &7&o[EternalFire] >> Transfiriendo al servidor, porfavor esperé...
 [23:19:48] [Server thread/INFO]: Daniel issued server command: /time set day
 [23:19:48] [Server thread/INFO]: [Daniel: Set the time to 1000]
+[23:22:32] [Server thread/INFO]: Daniel issued server command: /holo edit lobby setline 1 &7» &#EEF454L&#DDD43Fo&#CCB42Ab&#BB9315b&#AA7300y &7«
+[23:22:48] [Server thread/INFO]: Daniel issued server command: /holo edit lobby linkWithNpc lobby
+[23:25:15] [Server thread/INFO]: Daniel issued server command: /holo edit lobby addline Haz clic para regresar al menú principal
+[23:25:47] [Server thread/INFO]: Daniel issued server command: /holo edit lobby addline y explorar otras modalidades
+[23:25:53] [Server thread/INFO]: Daniel lost connection: Disconnected
+[23:25:53] [Server thread/INFO]: Daniel left the game
+[23:26:53] [Server thread/INFO]: Server empty for 60 seconds, pausing
