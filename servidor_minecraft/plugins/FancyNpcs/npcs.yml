@@ -1,0 +1,38 @@
+npcs:
+  8cde6f6d-e36d-4585-8410-5cab07b57ba0:
+    name: lobby
+    creator: d050033d-d943-35db-933f-15700cf9924e
+    displayName: <empty>
+    type: PLAYER
+    location:
+      world: world
+      x: -576.5
+      y: 74.0
+      z: -46.5
+      yaw: 0.45056152
+      pitch: 2.9999878
+    showInTab: false
+    spawnEntity: true
+    collidable: true
+    glowing: false
+    glowingColor: white
+    turnToPlayer: false
+    turnToPlayerDistance: -1
+    interactionCooldown: 0.0
+    scale: 1.0
+    visibility_distance: -1
+    skin:
+      mirrorSkin: true
+    equipment:
+      MAINHAND:
+        ==: org.bukkit.inventory.ItemStack
+        v: 4189
+        type: COMPASS
+    actions:
+      ANY_CLICK:
+        '1':
+          action: send_to_server
+          value: lobby
+        '2':
+          action: message
+          value: '&7&o[EternalFire] >> Transfiriendo al servidor, porfavor esperé...'
