@@ -1,77 +1,77 @@
-[22:20:28] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[22:20:28] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-232-ver/1.21.4@12d8fe0 (2025-06-09T10:15:42Z) for Minecraft 1.21.4
-[22:20:28] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[22:20:32] [ServerMain/INFO]: [PluginInitializerManager] Initialized 6 plugins
-[22:20:32] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (2):
+[22:59:50] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.7+6-Ubuntu-0ubuntu124.04; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[22:59:50] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.4-232-ver/1.21.4@12d8fe0 (2025-06-09T10:15:42Z) for Minecraft 1.21.4
+[22:59:51] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[22:59:53] [ServerMain/INFO]: [PluginInitializerManager] Initialized 6 plugins
+[22:59:53] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (2):
  - FancyHolograms (2.7.0), FancyNpcs (2.7.0)
-[22:20:32] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
+[22:59:53] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (4):
  - Chunky (1.4.40), ConditionalEvents (4.65.1), ServerVariables (2.7.1), floodgate (2.2.4-SNAPSHOT (b118-40d320a))
-[22:20:39] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[22:20:44] [ServerMain/INFO]: Loaded 1376 recipes
-[22:20:44] [ServerMain/INFO]: Loaded 1484 advancements
-[22:20:44] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
-[22:20:44] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 387.7ms
-[22:20:45] [Server thread/INFO]: Starting minecraft server version 1.21.4
-[22:20:45] [Server thread/INFO]: Loading properties
-[22:20:45] [Server thread/INFO]: This server is running Paper version 1.21.4-232-ver/1.21.4@12d8fe0 (2025-06-09T10:15:42Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
-[22:20:45] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[22:20:45] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[22:20:45] [Server thread/INFO]: Using 4 threads for Netty based IO
-[22:20:45] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[22:20:45] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[22:20:46] [Server thread/INFO]: Default game type: SURVIVAL
-[22:20:46] [Server thread/INFO]: Generating keypair
-[22:20:46] [Server thread/INFO]: Starting Minecraft server on *:25565
-[22:20:46] [Server thread/INFO]: Using epoll channel type
-[22:20:46] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[22:20:46] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[22:20:47] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b118-40d320a)
-[22:20:48] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[22:20:48] [Server thread/INFO]: [floodgate] Took 1,598ms to boot Floodgate
-[22:20:48] [Server thread/INFO]: [FancyNpcs] Loading server plugin FancyNpcs v2.7.0
-[22:20:48] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.40
-[22:20:48] [Server thread/INFO]: [ConditionalEvents] Loading server plugin ConditionalEvents v4.65.1
-[22:20:48] [Server thread/INFO]: [ServerVariables] Loading server plugin ServerVariables v2.7.1
-[22:20:48] [Server thread/INFO]: [FancyHolograms] Loading server plugin FancyHolograms v2.7.0
-[22:20:48] [FancyLogger/INFO]: [FancyHolograms] (Server thread) INFO: Successfully loaded FancyHolograms version 2.7.0
-[22:20:48] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[22:20:48] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[22:20:48] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[22:20:48] [Server thread/WARN]: Whilst this makes it possible to use Velocity, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
-[22:20:48] [Server thread/WARN]: Please see https://docs.papermc.io/velocity/security for further information.
-[22:20:48] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[22:20:48] [Server thread/INFO]: Preparing level "world"
-[22:20:50] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[22:20:51] [Server thread/INFO]: Preparing spawn area: 0%
-[22:20:51] [Server thread/INFO]: Preparing spawn area: 0%
-[22:20:51] [Server thread/INFO]: Preparing spawn area: 8%
-[22:20:52] [Server thread/INFO]: Preparing spawn area: 32%
-[22:20:52] [Server thread/INFO]: Preparing spawn area: 32%
-[22:20:52] [Server thread/INFO]: Time elapsed: 2059 ms
-[22:20:52] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[22:20:52] [Server thread/INFO]: Preparing spawn area: 0%
-[22:20:53] [Server thread/INFO]: Time elapsed: 485 ms
-[22:20:53] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[22:20:53] [Server thread/INFO]: Preparing spawn area: 0%
-[22:20:53] [Server thread/INFO]: Time elapsed: 226 ms
-[22:20:53] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b118-40d320a)
-[22:20:54] [Server thread/INFO]: [FancyNpcs] Enabling FancyNpcs v2.7.0
-[22:20:55] [Server thread/WARN]: [org.mineskin.MineSkinClient] Creating MineSkinClient without API key
-[22:20:56] [FancyLogger/INFO]: [FancyNpcs] (Server thread) INFO: FancyNpcs (2.7.0) has been enabled.
-[22:20:56] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.40
-[22:20:56] [Server thread/INFO]: [ConditionalEvents] Enabling ConditionalEvents v4.65.1
-[22:20:56] [Server thread/INFO]: [ConditionalEvents] Has been enabled! Version: 4.65.1
-[22:20:56] [Server thread/INFO]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
-[22:20:56] [Server thread/INFO]: [ServerVariables] Enabling ServerVariables v2.7.1
-[22:20:56] [Server thread/INFO]: [ServerVariables] Has been enabled! Version: 2.7.1
-[22:20:56] [Server thread/INFO]: [ServerVariables] Thanks for using my plugin!   ~Ajneb97
-[22:20:56] [Server thread/INFO]: [FancyHolograms] Enabling FancyHolograms v2.7.0
-[22:20:56] [FancyLogger/INFO]: [FancyHolograms] (FancyHolograms-Holograms) WARN: No holograms section found in config
-[22:20:56] [FancyLogger/INFO]: [FancyHolograms] (FancyHolograms-Holograms) WARN: No holograms section found in config
-[22:20:56] [FancyLogger/INFO]: [FancyHolograms] (FancyHolograms-Holograms) WARN: No holograms section found in config
-[22:20:57] [FancyLogger/INFO]: [FancyHolograms] (Server thread) INFO: Successfully enabled FancyHolograms version 2.7.0
-[22:20:57] [Server thread/INFO]: [spark] Starting background profiler...
-[22:20:58] [Server thread/INFO]: Done preparing level "world" (9.505s)
-[22:20:58] [Server thread/INFO]: Running delayed init tasks
-[22:20:58] [Server thread/INFO]: Done (31.960s)! For help, type "help"
-[22:21:58] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[23:00:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[23:00:05] [ServerMain/INFO]: Loaded 1376 recipes
+[23:00:05] [ServerMain/INFO]: Loaded 1484 advancements
+[23:00:05] [ServerMain/INFO]: [MCTypeRegistry] Initialising converters for DataConverter...
+[23:00:06] [ServerMain/INFO]: [MCTypeRegistry] Finished initialising converters for DataConverter in 483.3ms
+[23:00:06] [Server thread/INFO]: Starting minecraft server version 1.21.4
+[23:00:06] [Server thread/INFO]: Loading properties
+[23:00:06] [Server thread/INFO]: This server is running Paper version 1.21.4-232-ver/1.21.4@12d8fe0 (2025-06-09T10:15:42Z) (Implementing API version 1.21.4-R0.1-SNAPSHOT)
+[23:00:06] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[23:00:07] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[23:00:07] [Server thread/INFO]: Using 4 threads for Netty based IO
+[23:00:07] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[23:00:07] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[23:00:07] [Server thread/INFO]: Default game type: SURVIVAL
+[23:00:07] [Server thread/INFO]: Generating keypair
+[23:00:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[23:00:08] [Server thread/INFO]: Using epoll channel type
+[23:00:08] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[23:00:08] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[23:00:08] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b118-40d320a)
+[23:00:09] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[23:00:10] [Server thread/INFO]: [floodgate] Took 1,483ms to boot Floodgate
+[23:00:10] [Server thread/INFO]: [FancyNpcs] Loading server plugin FancyNpcs v2.7.0
+[23:00:10] [Server thread/INFO]: [Chunky] Loading server plugin Chunky v1.4.40
+[23:00:10] [Server thread/INFO]: [ConditionalEvents] Loading server plugin ConditionalEvents v4.65.1
+[23:00:10] [Server thread/INFO]: [ServerVariables] Loading server plugin ServerVariables v2.7.1
+[23:00:10] [Server thread/INFO]: [FancyHolograms] Loading server plugin FancyHolograms v2.7.0
+[23:00:10] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[23:00:10] [FancyLogger/INFO]: [FancyHolograms] (Server thread) INFO: Successfully loaded FancyHolograms version 2.7.0
+[23:00:10] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[23:00:10] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[23:00:10] [Server thread/WARN]: Whilst this makes it possible to use Velocity, unless access to your server is properly restricted, it also opens up the ability for hackers to connect with any username they choose.
+[23:00:10] [Server thread/WARN]: Please see https://docs.papermc.io/velocity/security for further information.
+[23:00:10] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[23:00:10] [Server thread/INFO]: Preparing level "world"
+[23:00:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[23:00:12] [Server thread/INFO]: Preparing spawn area: 0%
+[23:00:12] [Server thread/INFO]: Preparing spawn area: 0%
+[23:00:13] [Server thread/INFO]: Preparing spawn area: 2%
+[23:00:14] [Server thread/INFO]: Preparing spawn area: 2%
+[23:00:14] [Server thread/INFO]: Preparing spawn area: 2%
+[23:00:14] [Server thread/INFO]: Time elapsed: 2238 ms
+[23:00:14] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[23:00:14] [Server thread/INFO]: Preparing spawn area: 0%
+[23:00:14] [Server thread/INFO]: Time elapsed: 498 ms
+[23:00:14] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[23:00:14] [Server thread/INFO]: Preparing spawn area: 0%
+[23:00:15] [Server thread/INFO]: Time elapsed: 215 ms
+[23:00:15] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b118-40d320a)
+[23:00:16] [Server thread/INFO]: [FancyNpcs] Enabling FancyNpcs v2.7.0
+[23:00:16] [Server thread/WARN]: [org.mineskin.MineSkinClient] Creating MineSkinClient without API key
+[23:00:17] [FancyLogger/INFO]: [FancyNpcs] (Server thread) INFO: FancyNpcs (2.7.0) has been enabled.
+[23:00:17] [Server thread/INFO]: [Chunky] Enabling Chunky v1.4.40
+[23:00:17] [Server thread/INFO]: [ConditionalEvents] Enabling ConditionalEvents v4.65.1
+[23:00:18] [Server thread/INFO]: [ConditionalEvents] Has been enabled! Version: 4.65.1
+[23:00:18] [Server thread/INFO]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
+[23:00:18] [Server thread/INFO]: [ServerVariables] Enabling ServerVariables v2.7.1
+[23:00:18] [Server thread/INFO]: [ServerVariables] Has been enabled! Version: 2.7.1
+[23:00:18] [Server thread/INFO]: [ServerVariables] Thanks for using my plugin!   ~Ajneb97
+[23:00:18] [Server thread/INFO]: [FancyHolograms] Enabling FancyHolograms v2.7.0
+[23:00:18] [FancyLogger/INFO]: [FancyHolograms] (FancyHolograms-Holograms) WARN: No holograms section found in config
+[23:00:18] [FancyLogger/INFO]: [FancyHolograms] (FancyHolograms-Holograms) WARN: No holograms section found in config
+[23:00:18] [FancyLogger/INFO]: [FancyHolograms] (FancyHolograms-Holograms) WARN: No holograms section found in config
+[23:00:18] [FancyLogger/INFO]: [FancyHolograms] (Server thread) INFO: Successfully enabled FancyHolograms version 2.7.0
+[23:00:19] [Server thread/INFO]: [spark] Starting background profiler...
+[23:00:20] [Server thread/INFO]: Done preparing level "world" (10.194s)
+[23:00:20] [Server thread/INFO]: Running delayed init tasks
+[23:00:20] [Server thread/INFO]: Done (31.213s)! For help, type "help"
+[23:01:20] [Server thread/INFO]: Server empty for 60 seconds, pausing
