@@ -75,3 +75,20 @@
 [23:00:20] [Server thread/INFO]: Running delayed init tasks
 [23:00:20] [Server thread/INFO]: Done (31.213s)! For help, type "help"
 [23:01:20] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[23:14:39] [User Authenticator #0/INFO]: UUID of player Daniel is d050033d-d943-35db-933f-15700cf9924e
+[23:14:41] [Server thread/INFO]: Daniel joined the game
+[23:14:41] [Server thread/INFO]: Daniel[/190.148.128.18:40218] logged in with entity id 79 at ([world]-576.4235854929157, 74.0, -46.48015135813887)
+[23:15:58] [Server thread/INFO]: Daniel issued server command: /tp -576.5 74.00 -46.5
+[23:15:58] [Server thread/INFO]: [Daniel: Teleported Daniel to -576.500000, 74.000000, -46.500000]
+[23:16:12] [Server thread/INFO]: Daniel issued server command: /tp -576 74.00 -46
+[23:16:12] [Server thread/INFO]: [Daniel: Teleported Daniel to -575.500000, 74.000000, -45.500000]
+[23:16:15] [Server thread/INFO]: Daniel issued server command: /tp -576.5 74.00 -46.5
+[23:16:15] [Server thread/INFO]: [Daniel: Teleported Daniel to -576.500000, 74.000000, -46.500000]
+[23:16:39] [Server thread/INFO]: Daniel issued server command: /npc create lobby
+[23:16:51] [Server thread/INFO]: Daniel issued server command: /holo create text lobby
+[23:17:07] [Server thread/INFO]: Daniel issued server command: /npc skin lobby @mirror
+[23:18:01] [Server thread/INFO]: Daniel issued server command: /npc equipment lobby set mainhand minecraft:compass
+[23:18:43] [Server thread/INFO]: Daniel issued server command: /npc action lobby any_click add send_to_server lobby
+[23:19:37] [Server thread/INFO]: Daniel issued server command: /npc action lobby any_click add message &7&o[EternalFire] >> Transfiriendo al servidor, porfavor esperé...
+[23:19:48] [Server thread/INFO]: Daniel issued server command: /time set day
+[23:19:48] [Server thread/INFO]: [Daniel: Set the time to 1000]
