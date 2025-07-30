@@ -79,3 +79,6 @@
 [13:45:14] [Server thread/INFO]: Daniel joined the game
 [13:45:14] [Server thread/INFO]: Daniel[/190.148.128.18:59000] logged in with entity id 15 at ([world]-604.9474761783606, 87.40284267278633, -72.06731367784546)
 [13:45:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2500ms or 50 ticks behind
+[13:47:53] [Server thread/INFO]: Daniel lost connection: Disconnected
+[13:47:53] [Server thread/INFO]: Daniel left the game
+[13:48:53] [Server thread/INFO]: Server empty for 60 seconds, pausing
