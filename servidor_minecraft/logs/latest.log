@@ -117,3 +117,31 @@
 [01:01:49] [Server thread/INFO]: .XxDaniel_MC9243 lost connection: Disconnected
 [01:01:49] [Server thread/INFO]: .XxDaniel_MC9243 left the game
 [01:02:49] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:11:45] [User Authenticator #2/INFO]: UUID of player .XxDaniel_MC9243 is 00000000-0000-0000-0009-01f2cd1f3486
+[01:11:45] [Server thread/INFO]: .XxDaniel_MC9243 joined the game
+[01:11:45] [Server thread/INFO]: .XxDaniel_MC9243[/190.148.128.18:47340] logged in with entity id 1351 at ([world]-576.8475, 73.0, -48.31301)
+[01:12:30] [Server thread/INFO]: .XxDaniel_MC9243 issued server command: //expand vert
+[01:12:58] [Server thread/INFO]: .XxDaniel_MC9243 issued server command: /rg create lobby
+[01:13:22] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[01:13:22] [Server thread/INFO]: .XxDaniel_MC9243 issued server command: /rg flag lobby build deny
+[01:13:52] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[01:13:52] [Server thread/INFO]: .XxDaniel_MC9243 issued server command: /rg flag lobby tnt deny
+[01:14:03] [Server thread/INFO]: .XxDaniel_MC9243 issued server command: /time set 0
+[01:14:03] [Server thread/INFO]: [.XxDaniel_MC9243: Set the time to 0]
+[01:14:22] [WorldGuard Region I/O/INFO]: [WorldGuard] Region data changes made in 'world' have been background saved
+[01:14:29] [Server thread/INFO]: .XxDaniel_MC9243 issued server command: /kill
+[01:14:29] [Server thread/INFO]: .XxDaniel_MC9243 was killed
+[01:14:29] [Server thread/INFO]: [.XxDaniel_MC9243: Killed .XxDaniel_MC9243]
+[01:14:42] [Server thread/INFO]: .XxDaniel_MC9243 issued server command: /gamemode survival
+[01:14:42] [Server thread/INFO]: [.XxDaniel_MC9243: Set own game mode to Survival Mode]
+[01:15:27] [Server thread/INFO]: .XxDaniel_MC9243 fell from a high place
+[01:15:47] [Server thread/INFO]: .XxDaniel_MC9243 issued server command: /deop @s
+[01:16:02] [Server thread/INFO]: .XxDaniel_MC9243 issued server command: /deop XxDaniel_MC9243
+[01:16:31] [Server thread/INFO]: .XxDaniel_MC9243 issued server command: /deop .XxDaniel_MC9243
+[01:16:31] [Server thread/INFO]: [.XxDaniel_MC9243: Made .XxDaniel_MC9243 no longer a server operator]
+[01:16:35] [Server thread/INFO]: .XxDaniel_MC9243 lost connection: Disconnected
+[01:16:35] [Server thread/INFO]: .XxDaniel_MC9243 left the game
+[01:17:35] [Server thread/INFO]: Server empty for 60 seconds, pausing
+[01:19:24] [User Authenticator #3/INFO]: UUID of player .XxDaniel_MC9243 is 00000000-0000-0000-0009-01f2cd1f3486
+[01:19:25] [Server thread/INFO]: .XxDaniel_MC9243 joined the game
+[01:19:25] [Server thread/INFO]: .XxDaniel_MC9243[/190.148.128.18:50946] logged in with entity id 1952 at ([world]-576.54083, 73.0, -43.997486)
