@@ -1,3652 +1,494 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.16.2): 1753927121267 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927124327 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927127396 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927130468 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927133531 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927136605 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927139701 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927142769 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927145846 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927148940 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927152014 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927155087 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927158158 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927161255 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927164320 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927167400 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927170468 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927173537 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927176610 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927179694 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927182766 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927185840 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927188933 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927192005 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927195079 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927198160 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927201226 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927204334 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927207407 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927210539 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927213607 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927216673 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927219743 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927222809 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927225880 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927228945 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927232035 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927235105 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927238176 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927241306 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927244389 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927247463 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927250527 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927253587 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927256659 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927259723 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927262798 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927265871 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927268941 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927272025 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927275093 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927278171 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927281234 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927284310 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927287436 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927290519 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927293589 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927296660 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927299726 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927302835 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927305924 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927308990 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927312060 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927315209 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927318321 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927321389 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927324459 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927327535 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927330609 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927333678 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927336755 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927339841 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927342941 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927346027 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927349212 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927352281 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927355344 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927358430 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927361511 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927364585 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927367649 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927370738 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927373816 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927376965 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927380048 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927383120 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927386209 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927389276 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927392354 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927395438 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927398506 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927401583 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927404655 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927407727 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927410796 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927413964 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927417034 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927420105 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927423178 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927426357 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927429449 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927432536 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927435620 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927438724 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927441797 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927444864 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927447931 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927451017 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927454091 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927457163 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927460244 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927463306 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927466369 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927469440 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927472503 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927475576 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927478653 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927481720 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927484817 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927487926 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927490993 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927494113 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927497182 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927500279 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927503358 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927506433 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927509499 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927512581 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927515651 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927518742 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927521830 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927524908 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927527979 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927531041 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927534113 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927537190 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927540261 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927543324 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927546383 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927549470 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927552564 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927555640 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927558722 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927561844 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927564913 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927567990 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927571058 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927574140 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927577234 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927580310 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927583384 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927586452 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927589529 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927592602 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927595671 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927598743 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927601829 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927604918 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927607996 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927611072 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927614193 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927617298 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927620379 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927623450 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927626609 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927629682 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927632779 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927635858 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927638923 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927642010 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927645077 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927648172 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927651241 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927654356 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927657422 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927660495 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927663577 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927666672 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927669749 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927672821 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927675898 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927678975 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927682059 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927685143 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927688206 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927691276 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927694355 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927697447 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927700514 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927703584 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927706670 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927709742 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927712812 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927715876 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927718946 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927722034 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927725134 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927728219 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927731293 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927734383 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927737461 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927740532 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927743608 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927746677 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927749740 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927752820 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927755882 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927758962 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927762041 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927765125 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927768199 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927771270 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927774363 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927777438 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927780525 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927783598 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927786676 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927789762 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927792839 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927795912 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927798984 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927802054 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927805136 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927808203 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927811278 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927814363 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927817431 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927820499 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927823589 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927826661 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927829738 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927832825 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927835898 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927838971 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927842054 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927845122 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927848236 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927851301 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927854363 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927857478 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927860559 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927863629 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927866704 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927869766 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927872829 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927875899 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927878977 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927882068 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927885147 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927888220 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927891294 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927894359 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927897455 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927900529 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927903595 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927906662 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927909724 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927912814 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927915888 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927919169 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927922239 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927925299 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927928451 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927931520 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927934584 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927937649 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927940714 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927943793 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927946868 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927949971 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927953042 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927956117 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927959182 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927962273 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927965342 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927968419 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927971497 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927974583 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927977663 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927980752 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927983819 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927986888 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927989950 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927993030 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927996097 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753927999171 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753928002238 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753928005331 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753928008405 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753928011505 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753928014569 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753928017634 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753928020714 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753928023787 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753928026859 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753928029934 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753928033024 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753928036092 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753928039169 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753928042266 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.16.2): 1753928045336 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-tunnel pending: https://playit.gg/account/tunnels/edd847f3-8e25-44c4-a725-a55fefc64125
-[2J8[0mplayit (v0.16.2): 1753928048409 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928051493 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928054563 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928057670 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928060750 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928063829 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928066908 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928069991 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928073073 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928076142 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928079249 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928082319 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928085398 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928088471 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928091551 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928094654 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928097732 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928100812 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928103901 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928106976 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928110063 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928113154 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928116226 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928119291 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928122361 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928125434 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928128520 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928131596 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928134682 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928137768 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928140835 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928143900 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928146974 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928150058 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928153131 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928156197 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928159271 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928162369 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928165566 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928168631 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928171706 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928174795 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928177863 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928180937 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928184009 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928187086 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928190150 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928193223 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928196288 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928199356 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928202430 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928205494 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928208575 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928211660 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928214728 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928217793 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928220873 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928223952 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928227032 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928230105 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928233177 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928236242 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928239319 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928242382 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928245477 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928248566 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928251634 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928254702 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928257806 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928260884 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928263957 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928267030 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928270103 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928273169 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928276238 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928279301 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928282385 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928285484 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928288572 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928291637 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928294705 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928297782 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928300848 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928303921 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928306988 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928310057 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928313149 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928316218 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928319323 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928322398 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928325500 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928328568 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928331651 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928334720 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928337784 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928340857 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928343923 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928346993 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928350066 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928353133 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928356212 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928359274 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928362344 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928365410 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928368502 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928371574 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928374640 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928377705 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928380812 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928383875 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928386947 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928390037 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928393135 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928396222 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928399290 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928402375 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928405447 tunnel running, 3 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-subject-brussels.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928408520 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928411656 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928414739 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928417821 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928420895 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928423973 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928427060 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928430155 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928433247 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928436317 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928439390 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928442467 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928445542 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928448625 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928451688 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928454772 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928457845 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928460905 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928463969 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928467048 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928470128 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928473259 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928476333 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928479395 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928482462 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928485565 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928488632 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928491706 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928494777 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928497852 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928500919 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928503994 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928507089 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928510167 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928513230 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928516292 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928519364 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928522439 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928525507 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928528606 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928531672 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928534743 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928537819 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928540883 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928543958 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928547034 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928550096 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928553201 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928556292 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928559378 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928562443 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928565520 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928568603 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928571678 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928574747 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928577816 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928580891 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928583964 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928587028 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928590114 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928593193 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928596273 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928599338 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928602412 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928605487 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928608555 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928611614 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928614683 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928617760 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928620825 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928623887 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928626949 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928630028 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928633095 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928636177 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928639238 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928642303 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928645366 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928648430 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928651510 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928654575 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928657649 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928660732 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928663797 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928666864 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928669930 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928673007 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928676078 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928679147 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928682218 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928685336 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928688410 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928691476 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928694537 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928697605 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928700675 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928703789 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928706873 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928709936 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928713020 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928716088 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928719168 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928722239 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928725310 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928728391 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928731456 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928734538 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928737627 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928740715 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928743811 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928746882 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928749964 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928753034 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928756102 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928759169 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928762240 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928765309 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928768373 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928771458 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928774533 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928777595 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928780673 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928783743 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928786829 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928789896 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928792961 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928796035 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928799119 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928802211 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928805280 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928808344 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928811416 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928814486 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928817567 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928820636 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928823707 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928826773 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928829862 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928832944 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928836020 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928839222 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928842294 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928845398 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928848474 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928851549 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928854615 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928857697 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928860767 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928863834 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928866896 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928869976 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928873050 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928876111 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928879180 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928882276 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928885359 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928888428 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928891495 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928894578 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928897646 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928900716 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928903785 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
-taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-tunnel pending: https://playit.gg/account/tunnels/96d58157-b43a-4cb4-8bdd-91f9e97d36cf
-[2J8[0mplayit (v0.16.2): 1753928906860 tunnel running, 3 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 3 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.16.2): 1753928971611 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
 looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
 taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928909953 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753928974676 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
 looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
 taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928913028 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753928977749 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
 looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
 taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928916103 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753928980828 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
 looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
 taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928919233 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753928983898 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
 looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
 taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928922312 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753928986962 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
 looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
 taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928925390 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753928990039 tunnel running, 3 tunnels registered
 
 
 TUNNELS
 but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
 looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
 taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
-[2J8[0mplayit (v0.16.2): 1753928928468 tunnel running, 3 tunnels registered
+[2J8[0mplayit (v0.16.2): 1753928993119 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753928996206 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753928999269 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929002393 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929005462 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929008538 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929011617 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929014694 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929017768 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929020841 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929023928 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929026997 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929030105 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929033184 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929036268 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929039341 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929042409 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929045482 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929048556 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929051632 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929054733 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929057810 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929060900 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929063972 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929067037 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929070113 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929073193 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929076271 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929079354 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929082432 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929085510 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929088572 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929091655 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929094736 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929097817 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929100889 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929103951 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929107019 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929110083 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929113174 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929116251 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929119319 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929122392 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929125462 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929128524 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929131585 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929134647 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929137718 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929140801 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929143904 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929146974 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929150058 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929153163 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929156248 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929159326 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929162410 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929165473 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929168541 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929171644 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929174708 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929177843 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929180933 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929184004 tunnel running, 3 tunnels registered
+
+
+TUNNELS
+but-voltage.gl.at.ply.gg:3293 => 127.0.0.1:19132 (minecraft-bedrock)
+looking-xbox.gl.at.ply.gg:44158 => 127.0.0.1:8752 (proto: Tcp, port count: 1)
+taking-student.gl.at.ply.gg:44136 => 127.0.0.1:25565 (proto: Tcp, port count: 1)
+[2J8[0mplayit (v0.16.2): 1753929187086 tunnel running, 3 tunnels registered
 
 
 TUNNELS
